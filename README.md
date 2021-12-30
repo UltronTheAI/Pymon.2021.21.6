@@ -9,9 +9,15 @@
   
 # Run Python Code With Pymon
     
-    First Add Pymon.exe Folder To Path, 
-
-    Type in cmd ' pymon run file ',
+    First Install python in you`r pc, 
+    
+    Type in cmd ' pi install typer ',
+    
+    Type in cmd ' pi install subprocess ',
+    
+    Type in cmd ' pi install colorama ',
+    
+    Type in cmd ' python pymon.py run file ',
     
     This ' file ' is, a path to a file.
     
