@@ -11,14 +11,24 @@
     
     First Install python in you`r pc, 
     
-    Type in cmd ' pi install typer ',
+    Type in cmd ' pip install typer ',
     
-    Type in cmd ' pi install subprocess ',
+    Type in cmd ' pip install subprocess ',
     
-    Type in cmd ' pi install colorama ',
+    Type in cmd ' pip install colorama ',
     
     Type in cmd ' python pymon.py run file ',
     
     This ' file ' is, a path to a file.
     
     like .py file`s.
+    
+# Convert Pymon To Exe
+
+    Type in cmd ' pip install pyinstaller ',
+    
+    Type in cmd ' pyinstaller pymon.py ',
+    
+    And Go to dist/pymon,
+    
+    And Add This Folder To Path.
