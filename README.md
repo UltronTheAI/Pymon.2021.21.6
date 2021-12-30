@@ -7,4 +7,12 @@
 
     Thank`s.
   
-# Pymon Update.
+# Run Python Code With Pymon
+    
+    First Add Pymon.exe Folder To Path, 
+
+    Type in cmd ' pymon run file ',
+    
+    This ' file ' is, a path to a file.
+    
+    like .py file`s.
