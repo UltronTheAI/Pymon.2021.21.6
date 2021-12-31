@@ -3,7 +3,7 @@
 
     Pymon is like nodemon but it is for python, 
 
-    why i create pymon ==> we have to click run button or python command many time`s, to solve this i create pymon.
+    why i create pymon ==> we have to click run button or python command many time`s to run python code, so to solve this i create pymon, we have to run this command only one time and i will re-run automatically, to stop pymon press in cmd CTR + C.
 
     Thank`s.
   
