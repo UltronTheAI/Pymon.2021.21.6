@@ -32,3 +32,11 @@
     And Go to dist/pymon,
     
     And Add This Folder To Path.
+
+# Install Pymon SETUP
+
+    Download 
+    
+    Run Pymon-SetUp.exe,
+    
+    And Add This Folder To Path ' C:\Program Files (x86)\pymon '.
