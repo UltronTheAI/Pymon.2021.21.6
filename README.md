@@ -35,7 +35,7 @@
 
 # Install Pymon SETUP
 
-    Download 
+    Download https://ultrontheai.github.io/Pymon.2021.21.6/Pymon-SetUP.exe
     
     Run Pymon-SetUp.exe,
     
