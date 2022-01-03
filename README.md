@@ -35,8 +35,8 @@
 
 # Install Pymon SETUP
 
-    Download https://ultrontheai.github.io/Pymon.2021.21.6/Pymon-SetUP.exe,
+    Download https://ultrontheai.github.io/Pymon.2021.21.6/Pymon-SetUP.exe OR pymon.exe,
     
     Run Pymon-SetUp.exe,
     
-    And Add This Folder To Path ' C:\Program Files (x86)\pymon '.
+    And Add This Folder To Path ' C:\Program Files (x86)\pymon ' OR Installed pymon.exe folder to path.
